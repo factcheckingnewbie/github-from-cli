@@ -12,3 +12,4 @@
     * git remote -v
 3. git push -u origin main
 
+To add more privacy (not store the token in your bash .history file, I *strongly*  suggest you follow the method described in the ./github-from-cli/keep_privacy/README.md  [readme](https://github.com/ptr/guided/blob/master/github/github-from-cli/keep_privacy/README.md#git-credentials)   
